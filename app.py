@@ -5,7 +5,7 @@ import tensorflow as tf
 from streamlit_drawable_canvas import st_canvas
 
 # Load the trained CNN model
-model = tf.keras.models.load_model('mnist_cnn_model.h5')
+model = tf.keras.models.load_model('my_model.keras')
 
 # Function to preprocess image
 def preprocess_image(image):
