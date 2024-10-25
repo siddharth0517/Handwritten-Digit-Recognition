@@ -73,6 +73,7 @@ Training and validation accuracy and loss are visualized after the training proc
 
 ![image](https://github.com/user-attachments/assets/ff099c55-8542-47ba-91c5-4510b0a482a2)
 
+### [CLICK to Visit Site](https://handwritten-digit-recognition-cnn.streamlit.app/)
 
 ## Testing with Custom Images
 The trained model is tested on custom images. To test:
